@@ -1,3 +1,4 @@
 # odin-recipes
 
-Here is the first draft of my Project:Recipes on the Odin Project
+the odin project/lessons/foundations-css-foundations
+
